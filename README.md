@@ -8,14 +8,15 @@ This code shows how to create Azure Resource Group using Terraform.  This is cre
 
 3. Initialize Terraform
 
-    terraform init
+    >   terraform init
 
 4. You can validate and see the plan
 
-    terraform validate
-    terraform plan
+    >   terraform validate
+    
+    >   terraform plan
 
 5. Now execute terraform
 
-    terraform apply
+    >   terraform apply
 
